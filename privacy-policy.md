@@ -24,7 +24,7 @@ This Privacy Policy explains how we collect, use, and protect your information w
   - To improve app performance and stability
   - To understand which features are most useful to users
   - To identify and fix technical issues
-  - 
+    
 • Remote Configuration Use:
   - To provide real-time updates to app content and features
   - To enable or disable features based on app version
