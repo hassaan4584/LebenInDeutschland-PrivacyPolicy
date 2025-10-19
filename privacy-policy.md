@@ -1,7 +1,7 @@
 # Privacy Policy for LebenInDeutschland Prep 2025  
 **Last Updated:** 19 Oct 2025  
 
-This Privacy Policy explains how we collect, use, and protect your information when you use our **"LebenInDeutschland Preparation"** app. By using the app, you agree to this policy.  
+This Privacy Policy explains how we collect, use, and protect your information when you use our **"LebenInDeutschland Prep 2025"** app. By using the app, you agree to this policy.  
 
 ## 1. Information We Collect
 
